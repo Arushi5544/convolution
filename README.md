@@ -17,3 +17,7 @@ The program performs the following steps:
 * Computes the output matrix by performing element-wise multiplication and summation according to the convolution operation.
 ## Output:
 * Prints the input matrix, filter, and the resulting output matrix.
+
+# Files:
+convolution.c: Contains the C code for the convolution program.
+README.md: Instructions and information about the program.
